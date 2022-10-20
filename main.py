@@ -1,2 +1,2 @@
-a = 9
-print(a)
+a = int(input("Enter: "))
+print(a + a)
